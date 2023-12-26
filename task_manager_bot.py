@@ -40,4 +40,4 @@ async def complete_task(ctx, task_id: int):
         await ctx.send('Invalid task ID.')
 
 # Bot token
-bot.run('MTE4OTI5Mzk1MDAyNTA3MjczMQ.G87HB9.0GXped4GoDVkPoYisRMypNfwFdZJV49AxCV1-c')
+bot.run('YOUR-TOKEN-HERE')
